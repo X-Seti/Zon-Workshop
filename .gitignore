@@ -8,3 +8,6 @@ dist/
 /_internal/
 /*.exe
 .venv/
+/*_dist/
+/Zon_Workshop
+/Zon_Workshop.app/
